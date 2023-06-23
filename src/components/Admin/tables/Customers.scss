@@ -1,0 +1,223 @@
+.cutstomer-container {
+  background-color: #eceef0;
+  margin-left: -69px;
+  // margin-left: -50px;
+  width: 100%;
+  margin-top: 64px;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  
+}
+@media (max-width: 767px) {
+   
+    .cutstomer-container {
+      margin-left: 0px;
+     
+    }
+  }
+.cutstomer-header {
+  background-image: url(../../../../public/images/5630974.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 170px;
+  padding: 10px;
+ 
+
+}
+.cutstomer-header {
+  padding-left: 60px;
+}
+.cutstomer-header h1 {
+  color: #0b69bb;
+  margin-top: 12px;
+  font-size: 38px;
+}
+.cutstomer-header h5 {
+  letter-spacing: 0.7px;
+}
+/// headofcustomers
+.bodyOfCustomers h5 {
+  color: #0b69bb;
+  font-family: Arial;
+  font-weight: 500;
+  margin-left: 20px;
+  letter-spacing: 0.3px;
+  padding-bottom: 18px;
+ 
+}
+.bodyOfCustomers {
+  background-color: white;
+  padding: 25px;
+  border-spacing: 2em;
+  // z-index: 1;
+  border-radius: 10px;
+  margin-top: -35px;
+  width: 97%;
+  margin-bottom: 30px;
+  transition: 2s;
+}
+
+.dS {
+  position: relative;
+  margin-top: 3px;
+  align-items: center;
+}
+.entites {
+  margin-top: 8px;
+}
+.bodyOfCustomers .download {
+  position: absolute;
+  left: 95%;
+  font-size: 18px;
+  opacity: 0.8;
+  font-weight: 100;
+  color: #0b69bb;
+}
+.bodyOfCustomers .search {
+  width: 300px;
+  float: right;
+  margin-right: 35px;
+  cursor: pointer;
+}
+.select-box {
+  width: 75px;
+  height: 30px;
+  border: 0.5px solid rgba(125, 124, 124, 0.5);
+  font-size: 15px;
+  color: #0b69bb;
+  border-radius: 5px;
+  outline: none;
+}
+.bodyOfCustomers table {
+  margin-top: 41px;
+  margin-left: 2px;
+  text-align: center;
+  border-collapse: collapse;
+}
+.bodyOfCustomers table thead th {
+  color: #0b69bb;
+  font-family: Arial;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+.bodyOfCustomers table tr th {
+  padding-left: 19px;
+  padding-right: 19px;
+}
+.bodyOfCustomers table thead:hover tr {
+  background-color: #dfe2e4;
+}
+
+.bodyOfCustomers table tr:hover {
+  background-color: #e9eef0;
+}
+.bodyOfCustomers table thead {
+  background-color: #dfe2e4;
+  text-align: center;
+}
+.bodyOfCustomers i {
+  color: #0b69bb;
+  cursor: pointer;
+}
+.bodyOfCustomers td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+  color: rgb(93, 92, 92);
+}
+.bodyOfCustomers table img {
+  width: 40px;
+}
+.bodyOfCustomers table tr {
+  border-bottom: 2px solid rgb(200, 198, 198);
+  white-space: nowrap;
+}
+ .customersNavPage {
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: -250px;
+  
+}
+// @media (max-width: 1240px) {
+//   .bodyOfCustomers{
+//     width: 88%;
+//     background-color: #0bbb11;
+//   }
+//   .cutstomer-container {
+//     margin-left: -100px;
+//   }
+// }
+// @media (max-width: 1230px) {
+//   .bodyOfCustomers{
+//     width: 88%;
+//     background-color: #0b69bb;
+//   }
+//   .cutstomer-container {
+//     margin-left: -67px;
+//   }
+// }
+// @media (max-width: 1210px) {
+//   .bodyOfCustomers{
+//     width: 88%;
+//     background-color: #bb0b22;
+//   }
+//   .cutstomer-container {
+//     margin-left: -75px;
+//   }
+// }
+
+// @media (max-width: 1190px) {
+//   .bodyOfCustomers{
+//     width: 88%;
+//     background-color: #bb0b98;
+//   }
+//   .cutstomer-container {
+//     margin-left: -85px;
+//   }
+// }
+// @media (max-width: 1163px) {
+//   .bodyOfCustomers{
+//     width: 88%;
+//     background-color: #0bbb11;
+//   }
+//   .cutstomer-container {
+//     margin-left: -100px;
+   
+//   }
+//   .cutstomer-header {
+//     padding-left: 80px;
+//   }
+// }
+// @media (max-width: 1150px) {
+//   .bodyOfCustomers{
+//     width: 85%;
+//     background-color: #7a0bbb;
+   
+//     margin-right: 20px;
+//   }
+//   .cutstomer-container {
+//     margin-left: -110px;
+//   }
+//   .cutstomer-header {
+//     padding-left: 90px;
+//   }
+// }
+// @media (max-width: 1100px) {
+//   .bodyOfCustomers{
+//     width: 88%;
+//     background-color: #be9fd1;
+   
+//   }
+//   .cutstomer-container {
+//     margin-left: -120px;
+//   }
+//   .cutstomer-header {
+//     padding-left: 90px;
+//   }
+// }
